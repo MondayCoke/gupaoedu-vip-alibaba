@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.boot:nacos-discovery-spring-boot-autoconfigure:0.2.8">
+    <CLASSES>
+      <root url="jar://D:/maven/.m2/repository/com/alibaba/boot/nacos-discovery-spring-boot-autoconfigure/0.2.8/nacos-discovery-spring-boot-autoconfigure-0.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/.m2/repository/com/alibaba/boot/nacos-discovery-spring-boot-autoconfigure/0.2.8/nacos-discovery-spring-boot-autoconfigure-0.2.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/.m2/repository/com/alibaba/boot/nacos-discovery-spring-boot-autoconfigure/0.2.8/nacos-discovery-spring-boot-autoconfigure-0.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

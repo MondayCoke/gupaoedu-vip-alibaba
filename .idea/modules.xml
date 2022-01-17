@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba1/gpmall-pc-alibaba.iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba1/gpmall-pc-alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba2/gpmall-pc-alibaba (1).iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba2/gpmall-pc-alibaba (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba1/gpmall-portal/gpmall-portal.iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba1/gpmall-portal/gpmall-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba2/gpmall-portal/gpmall-portal (1).iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba2/gpmall-portal/gpmall-portal (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gupaoedu-vip-alibaba.iml" filepath="$PROJECT_DIR$/.idea/gupaoedu-vip-alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/ms-service.iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/ms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/ms-service (1).iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/ms-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-demo/nacos-demo.iml" filepath="$PROJECT_DIR$/nacos-demo/nacos-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service.iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/user-service/user-service (1).iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/user-service/user-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service-api/user-service-api.iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service-api/user-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/user-service/user-service-api/user-service-api (1).iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/user-service/user-service-api/user-service-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service-provider/user-service-provider.iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service-provider/user-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/user-service/user-service-provider/user-service-provider (1).iml" filepath="$PROJECT_DIR$/gpmall-pc-alibaba2/ms-service/user-service/user-service-provider/user-service-provider (1).iml" />
+    </modules>
+  </component>
+</project>
