@@ -13,15 +13,17 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-ea -Xms4096m -Xmx4096m" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="alwaysUpdateSnapshots" value="true" />
         <option name="localRepository" value="D:\maven\.m2\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="D:\maven\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -30,6 +32,7 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="23ofqdWIpgsbmWLHvnUsbsMNTlU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
@@ -79,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GpmallPortalApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-portal (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallportal.GpmallPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GpmallPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gpmall-portal (1)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallportal.GpmallPortalApplication" />
@@ -95,6 +105,13 @@
     </configuration>
     <configuration name="UserServiceProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="user-service-provider (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (2)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,7 +154,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642405552708</updated>
-      <workItem from="1642405554171" duration="1583000" />
+      <workItem from="1642405554171" duration="2049000" />
+      <workItem from="1642641763230" duration="1547000" />
+      <workItem from="1642660821945" duration="472000" />
     </task>
     <servers />
   </component>
