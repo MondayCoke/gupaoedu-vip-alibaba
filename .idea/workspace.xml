@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd60cc04-9cd6-4a60-acc5-b6db80594d91" name="默认变更列表" comment="" />
+    <list default="true" id="cd60cc04-9cd6-4a60-acc5-b6db80594d91" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/doc/1.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/1.2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/2.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/3.1.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -42,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DevGit2/ehnextgen" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -213,7 +226,7 @@
       <workItem from="1642405554171" duration="2049000" />
       <workItem from="1642641763230" duration="1547000" />
       <workItem from="1642660821945" duration="1281000" />
-      <workItem from="1643179051970" duration="2540000" />
+      <workItem from="1643179051970" duration="10815000" />
     </task>
     <servers />
   </component>
