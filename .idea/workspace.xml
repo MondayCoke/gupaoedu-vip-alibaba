@@ -75,6 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GpmallAlibabaPortalApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-alibaba-portal (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallalibabaportal.GpmallAlibabaPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GpmallAlibabaPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-alibaba-portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallalibabaportal.GpmallAlibabaPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GpmallPortalApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gpmall-portal" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallportal.GpmallPortalApplication" />
@@ -89,9 +103,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GpmallPortalApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-portal (3)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallportal.GpmallPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GpmallPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gpmall-portal (1)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallportal.GpmallPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkingServiceProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marking-service-provider (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.marking.markingserviceprovider.MarkingServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkingServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marking-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.marking.markingserviceprovider.MarkingServiceProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,6 +147,27 @@
     </configuration>
     <configuration name="UserServiceProviderApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="user-service-provider (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (3)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (4)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (5)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,7 +212,8 @@
       <updated>1642405552708</updated>
       <workItem from="1642405554171" duration="2049000" />
       <workItem from="1642641763230" duration="1547000" />
-      <workItem from="1642660821945" duration="472000" />
+      <workItem from="1642660821945" duration="1281000" />
+      <workItem from="1643179051970" duration="2540000" />
     </task>
     <servers />
   </component>

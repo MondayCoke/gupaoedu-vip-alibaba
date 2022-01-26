@@ -26,6 +26,10 @@
         <option value="$PROJECT_DIR$/gpmall-pc-alibaba1/pom.xml" />
         <option value="$PROJECT_DIR$/gpmall-pc-alibaba2/pom.xml" />
         <option value="$PROJECT_DIR$/gpmall-pc-alibaba3/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba4/sentinel-token-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba-seata/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/pom.xml" />
       </list>
     </option>
   </component>
