@@ -8,83 +8,154 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="user-service-api (3)" />
+        <module name="gpmall-alibaba-portal (2)" />
         <module name="gpmall-portal (2)" />
         <module name="marking-service-api" />
-        <module name="user-service-api" />
+        <module name="marking-service-provider (2)" />
+        <module name="user-service-api (3) (com.gupaoedu.gpmall.user)" />
+        <module name="marking-service-api (2)" />
         <module name="user-service-provider (2)" />
         <module name="user-service-provider" />
-        <module name="user-service-provider (4)" />
-        <module name="gpmall-portal" />
-        <module name="nacos-demo" />
-        <module name="sentinel-token-server" />
+        <module name="marking-service-provider (3)" />
+        <module name="user-service-provider (6)" />
         <module name="user-service-api (2)" />
         <module name="common-core (1)" />
-        <module name="gpmall-portal (3)" />
-        <module name="gpmall-alibaba-portal (1)" />
         <module name="gpmall-portal (1)" />
         <module name="marking-service-provider (1)" />
+        <module name="storage-service-api (1)" />
+        <module name="gpmall-alibaba-portal (3)" />
         <module name="gpmall-alibaba-portal" />
+        <module name="order-service-provider" />
         <module name="marking-service-provider" />
         <module name="user-service-api (1) (com.gupaoedu.gpmall.user)" />
         <module name="marking-service-api (1)" />
-        <module name="user-service-provider (1)" />
         <module name="user-service-provider (3)" />
-        <module name="user-service-api (2) (com.gupaoedu.gpmall.user)" />
-        <module name="user-service-provider (5)" />
+        <module name="order-service-api (1)" />
+        <module name="storage-service-api" />
         <module name="user-service-api (1)" />
         <module name="common-core" />
+        <module name="user-service-provider (7)" />
+        <module name="common-core (2)" />
+        <module name="user-service-api (3)" />
+        <module name="gpmall-alibaba-portal (4)" />
+        <module name="marking-service-api (4)" />
+        <module name="user-service-api" />
+        <module name="user-service-provider (4)" />
+        <module name="gpmall-portal" />
+        <module name="nacos-demo" />
+        <module name="storage-service-provider" />
+        <module name="storage-service-provider (1)" />
+        <module name="user-service-api (4) (com.gupaoedu.gpmall.user)" />
+        <module name="sentinel-token-server" />
+        <module name="user-service-provider (8)" />
+        <module name="common-core (3)" />
+        <module name="order-service-api" />
+        <module name="gpmall-portal (3)" />
+        <module name="gpmall-alibaba-portal (1)" />
+        <module name="order-service-provider (1)" />
+        <module name="marking-service-api (3)" />
+        <module name="user-service-api (5) (com.gupaoedu.gpmall.user)" />
+        <module name="user-service-provider (1)" />
+        <module name="user-service-api (2) (com.gupaoedu.gpmall.user)" />
+        <module name="marking-service-provider (4)" />
+        <module name="user-service-provider (5)" />
+        <module name="common-core (4)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-core" target="1.8" />
       <module name="common-core (1)" target="1.8" />
+      <module name="common-core (2)" target="1.8" />
+      <module name="common-core (3)" target="1.8" />
+      <module name="common-core (4)" target="1.8" />
       <module name="gpmall-alibaba-portal" target="1.8" />
       <module name="gpmall-alibaba-portal (1)" target="1.8" />
+      <module name="gpmall-alibaba-portal (2)" target="1.8" />
+      <module name="gpmall-alibaba-portal (3)" target="1.8" />
+      <module name="gpmall-alibaba-portal (4)" target="1.8" />
       <module name="gpmall-commons" target="1.8" />
       <module name="gpmall-commons (1)" target="1.8" />
+      <module name="gpmall-commons (2)" target="1.8" />
+      <module name="gpmall-commons (3)" target="1.8" />
+      <module name="gpmall-commons (4)" target="1.8" />
       <module name="gpmall-pc-alibaba" target="1.8" />
       <module name="gpmall-pc-alibaba (1)" target="1.8" />
       <module name="gpmall-pc-alibaba (1) (com.gupaoedu.gpmall)" target="1.8" />
       <module name="gpmall-pc-alibaba (2)" target="1.8" />
       <module name="gpmall-pc-alibaba (2) (com.gupaoedu.gpmall)" target="1.8" />
       <module name="gpmall-pc-alibaba (3)" target="1.8" />
+      <module name="gpmall-pc-alibaba (3) (com.gupaoedu.gpmall)" target="1.8" />
+      <module name="gpmall-pc-alibaba (4) (com.gupaoedu.gpmall)" target="1.8" />
+      <module name="gpmall-pc-alibaba (5) (com.gupaoedu.gpmall)" target="1.8" />
       <module name="gpmall-portal" target="1.8" />
       <module name="gpmall-portal (1)" target="1.8" />
       <module name="gpmall-portal (2)" target="1.8" />
       <module name="gpmall-portal (3)" target="1.8" />
       <module name="marking-service" target="1.8" />
       <module name="marking-service (1)" target="1.8" />
+      <module name="marking-service (2)" target="1.8" />
+      <module name="marking-service (3)" target="1.8" />
+      <module name="marking-service (4)" target="1.8" />
       <module name="marking-service-api" target="1.8" />
       <module name="marking-service-api (1)" target="1.8" />
+      <module name="marking-service-api (2)" target="1.8" />
+      <module name="marking-service-api (3)" target="1.8" />
+      <module name="marking-service-api (4)" target="1.8" />
       <module name="marking-service-provider" target="1.8" />
       <module name="marking-service-provider (1)" target="1.8" />
+      <module name="marking-service-provider (2)" target="1.8" />
+      <module name="marking-service-provider (3)" target="1.8" />
+      <module name="marking-service-provider (4)" target="1.8" />
       <module name="ms-service" target="1.8" />
       <module name="ms-service (1)" target="1.8" />
       <module name="ms-service (1) (com.gupaoedu.gpmall)" target="1.8" />
       <module name="ms-service (2)" target="1.8" />
       <module name="ms-service (2) (com.gupaoedu.gpmall)" target="1.8" />
       <module name="ms-service (3)" target="1.8" />
+      <module name="ms-service (3) (com.gupaoedu.gpmall)" target="1.8" />
+      <module name="ms-service (4) (com.gupaoedu.gpmall)" target="1.8" />
+      <module name="ms-service (5) (com.gupaoedu.gpmall)" target="1.8" />
       <module name="nacos-demo" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="order-service (1)" target="1.8" />
+      <module name="order-service-api" target="1.8" />
+      <module name="order-service-api (1)" target="1.8" />
+      <module name="order-service-provider" target="1.8" />
+      <module name="order-service-provider (1)" target="1.8" />
       <module name="sentinel-token-server" target="1.8" />
+      <module name="storage-service" target="1.8" />
+      <module name="storage-service (1)" target="1.8" />
+      <module name="storage-service-api" target="1.8" />
+      <module name="storage-service-api (1)" target="1.8" />
+      <module name="storage-service-provider" target="1.8" />
+      <module name="storage-service-provider (1)" target="1.8" />
       <module name="user-service" target="1.8" />
       <module name="user-service (1)" target="1.8" />
       <module name="user-service (1) (com.gupaoedu.gpmall.user)" target="1.8" />
       <module name="user-service (2)" target="1.8" />
       <module name="user-service (2) (com.gupaoedu.gpmall.user)" target="1.8" />
       <module name="user-service (3)" target="1.8" />
+      <module name="user-service (3) (com.gupaoedu.gpmall.user)" target="1.8" />
+      <module name="user-service (4) (com.gupaoedu.gpmall.user)" target="1.8" />
+      <module name="user-service (5) (com.gupaoedu.gpmall.user)" target="1.8" />
       <module name="user-service-api" target="1.8" />
       <module name="user-service-api (1)" target="1.8" />
       <module name="user-service-api (1) (com.gupaoedu.gpmall.user)" target="1.8" />
       <module name="user-service-api (2)" target="1.8" />
       <module name="user-service-api (2) (com.gupaoedu.gpmall.user)" target="1.8" />
       <module name="user-service-api (3)" target="1.8" />
+      <module name="user-service-api (3) (com.gupaoedu.gpmall.user)" target="1.8" />
+      <module name="user-service-api (4) (com.gupaoedu.gpmall.user)" target="1.8" />
+      <module name="user-service-api (5) (com.gupaoedu.gpmall.user)" target="1.8" />
       <module name="user-service-provider" target="1.8" />
       <module name="user-service-provider (1)" target="1.8" />
       <module name="user-service-provider (2)" target="1.8" />
       <module name="user-service-provider (3)" target="1.8" />
       <module name="user-service-provider (4)" target="1.8" />
       <module name="user-service-provider (5)" target="1.8" />
+      <module name="user-service-provider (6)" target="1.8" />
+      <module name="user-service-provider (7)" target="1.8" />
+      <module name="user-service-provider (8)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

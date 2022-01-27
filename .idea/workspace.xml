@@ -5,10 +5,126 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd60cc04-9cd6-4a60-acc5-b6db80594d91" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/1.1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/1.2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/2.1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/3.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/GpmallAlibabaPortalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/controller/CustomUrlBlockHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/controller/MarkingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/controller/MockSayHelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/nacosdiscovery/NacosDiscoveryConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/sentinel/CircuitServiceMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/sentinel/FlowRuleInitFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/sentinel/SentinelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/sentinel/TestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/util/CusAccessObjectUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/resources/META-INF/services/com.alibaba.csp.sentinel.init.InitFunc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/resources/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/resources/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/test/java/com/gupaoedu/gpmall/portal/gpmallalibabaportal/GpmallAlibabaPortalApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/core/AbstractRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/core/AbstractResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/core/CommonResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/enums/CommonRetCodeEnums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/exception/BizException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java/com/gupaoedu/gpmall/exception/ValidException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/test/java/com/gupaoedu/gpmall/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/ILotterChanceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/ILotterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/dto/DrawRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/dto/DrawResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/dto/UserDrawChanceRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/dto/UserDrawChanceResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java/com/gupaoedu/gpmall/marking/enums/MmsResCodeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/test/java/com/gupaoedu/gpmall/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/MarkingServiceProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/biz/AbstractRewardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/biz/AsyncLotteryRecordTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/biz/HasStockRewardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/biz/NoneStockRewardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/biz/RewardContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/biz/RewardProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/config/JodaDateTimeJsonDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/config/JodaDateTimeJsonSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/config/MybatisPlusConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/config/RedisTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/config/ThreadPoolExecutorConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/config/ThreadPoolExecutorProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/mapper/MmsLotteryChanceMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/mapper/MmsLotteryItemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/mapper/MmsLotteryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/mapper/MmsLotteryPrizeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/mapper/MmsLotteryRecordMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/model/MmsLottery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/model/MmsLotteryChance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/model/MmsLotteryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/model/MmsLotteryPrize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/dal/model/MmsLotteryRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/event/InitPrizeToRedisEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/event/InitPrizeToRedisListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/event/UserRegisterQueueListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/generator/MybatisPlusGeneratorConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/service/LotterChanceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/service/LotterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/constants/LotteryConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/constants/MmsConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/constants/RedisKeyManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/exception/BaseBusinessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/exception/MmsExceptionWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/exception/RewardException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java/com/gupaoedu/gpmall/marking/markingserviceprovider/utils/exception/UnRewardException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/resources/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/resources/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/test/java/com/gupaoedu/gpmall/marking/markingserviceprovider/MarkingServiceProviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java/com/gupaoedu/gpmall/user/ICircuitService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java/com/gupaoedu/gpmall/user/IHelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java/com/gupaoedu/gpmall/user/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java/com/gupaoedu/gpmall/user/dto/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java/com/gupaoedu/gpmall/user/dto/UserRegisterResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java/com/gupaoedu/gpmall/user/enums/UmsResCodeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/test/java/com/gupaoedu/gpmall/user/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/FlowRuleInitFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/UserServiceProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/config/MybatisPlusConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/converter/UserConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/dal/mapper/UmsUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/dal/model/UmsUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/event/UserRegisterTxmsgListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/generator/MybatisPlusGeneratorConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/service/CircuitService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/service/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/utils/constants/UmsConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java/com/gupaoedu/gpmall/user/userserviceprovider/utils/exception/UmsExceptionWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/resources/META-INF/services/com.alibaba.csp.sentinel.init.InitFunc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/resources/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/resources/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/test/java/com/gupaoedu/gpmall/user/userserviceprovider/UserServiceProviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/数据库/branch_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/数据库/gpmall-alibaba.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +211,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GpmallAlibabaPortalApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-alibaba-portal (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallalibabaportal.GpmallAlibabaPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GpmallAlibabaPortalApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-alibaba-portal (3)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallalibabaportal.GpmallAlibabaPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GpmallAlibabaPortalApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gpmall-alibaba-portal (4)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallalibabaportal.GpmallAlibabaPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GpmallAlibabaPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gpmall-alibaba-portal" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.portal.gpmallalibabaportal.GpmallAlibabaPortalApplication" />
@@ -137,6 +274,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MarkingServiceProviderApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marking-service-provider (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.marking.markingserviceprovider.MarkingServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkingServiceProviderApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marking-service-provider (3)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.marking.markingserviceprovider.MarkingServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkingServiceProviderApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marking-service-provider (4)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.marking.markingserviceprovider.MarkingServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarkingServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="marking-service-provider" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.marking.markingserviceprovider.MarkingServiceProviderApplication" />
@@ -147,6 +305,34 @@
     <configuration name="NacosDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="nacos-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.example.nacosdemo.NacosDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service-provider (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.order.OrderServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.order.OrderServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageServiceProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage-service-provider (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.storage.StorageServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.storage.StorageServiceProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,6 +367,27 @@
     </configuration>
     <configuration name="UserServiceProviderApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="user-service-provider (5)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (6)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (7)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProviderApplication (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-provider (8)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gupaoedu.gpmall.user.userserviceprovider.UserServiceProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,7 +433,7 @@
       <workItem from="1642405554171" duration="2049000" />
       <workItem from="1642641763230" duration="1547000" />
       <workItem from="1642660821945" duration="1281000" />
-      <workItem from="1643179051970" duration="10815000" />
+      <workItem from="1643179051970" duration="11864000" />
     </task>
     <servers />
   </component>

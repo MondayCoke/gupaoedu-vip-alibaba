@@ -30,6 +30,10 @@
         <option value="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/pom.xml" />
         <option value="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba-seata/pom.xml" />
         <option value="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba-seata5/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/pom.xml" />
       </list>
     </option>
   </component>

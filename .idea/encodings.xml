@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-alibaba-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-alibaba-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/gpmall-commons/common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/ms-service/marking-service/marking-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/ms-service/marking-service/marking-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/ms-service/marking-service/marking-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/ms-service/user-service/user-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/ms-service/user-service/user-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata5/ms-service/user-service/user-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/gpmall-alibaba-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/gpmall-alibaba-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/gpmall-commons/common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/marking-service/marking-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/marking-service/marking-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/marking-service/marking-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/order-service/order-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/order-service/order-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/order-service/order-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/storage-service/storage-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/storage-service/storage-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/storage-service/storage-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/user-service/user-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/user-service/user-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-after/ms-service/user-service/user-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/gpmall-alibaba-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/gpmall-alibaba-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/gpmall-commons/common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/marking-service/marking-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/marking-service/marking-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/marking-service/marking-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/order-service/order-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/order-service/order-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/order-service/order-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/storage-service/storage-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/storage-service/storage-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/storage-service/storage-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/user-service/user-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/user-service/user-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-before/ms-service/user-service/user-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/gpmall-alibaba-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/gpmall-commons/common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/ms-service/marking-service/marking-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba-seata6/gpmall-pc-alibaba-seata/ms-service/user-service/user-service-provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba1/gpmall-portal/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba1/gpmall-portal/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gpmall-pc-alibaba1/ms-service/user-service/user-service-api/src/main/java" charset="UTF-8" />
