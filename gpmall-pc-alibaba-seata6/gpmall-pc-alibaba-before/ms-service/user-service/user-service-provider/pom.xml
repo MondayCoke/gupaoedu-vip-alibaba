@@ -5,14 +5,14 @@
     <parent>
         <groupId>com.gupaoedu.gpmall.user</groupId>
         <artifactId>user-service</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.7-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <packaging>jar</packaging>
     <groupId>com.gupaoedu.gpmall.user</groupId>
     <artifactId>user-service-provider</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.7-SNAPSHOT</version>
     <name>user-service-provider</name>
     <description>user-service-provider</description>
 

@@ -6,13 +6,13 @@
   <parent>
     <groupId>com.gupaoedu.gpmall</groupId>
     <artifactId>ms-service</artifactId>
-    <version>0.0.7-SNAPSHOT</version>
+    <version>0.0.8-SNAPSHOT</version>
   </parent>
 
   <groupId>com.gupaoedu.gpmall</groupId>
   <artifactId>marking-service</artifactId>
   <packaging>pom</packaging>
-  <version>0.0.7-SNAPSHOT</version>
+  <version>0.0.8-SNAPSHOT</version>
   <modules>
     <module>marking-service-api</module>
     <module>marking-service-provider</module>

@@ -5,12 +5,12 @@
     <parent>
         <groupId>com.gupaoedu.gpmall</groupId>
         <artifactId>marking-service</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.7-SNAPSHOT</version>
     </parent>
 
     <groupId>com.gupaoedu.gpmall.marking</groupId>
     <artifactId>marking-service-provider</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.7-SNAPSHOT</version>
     <name>marking-service-provider</name>
     <description>marking-service-provider</description>
 
@@ -89,7 +89,7 @@
         <dependency>
             <groupId>com.gupaoedu.gpmall</groupId>
             <artifactId>marking-service-api</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.7-SNAPSHOT</version>
         </dependency>
 
         <dependency>

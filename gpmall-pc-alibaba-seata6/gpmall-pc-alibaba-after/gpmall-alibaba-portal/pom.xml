@@ -4,13 +4,13 @@
     <parent>
         <groupId>com.gupaoedu.gpmall</groupId>
         <artifactId>gpmall-pc-alibaba</artifactId>
-        <version>0.0.7-SNAPSHOT</version>
+        <version>0.0.8-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.gupaoedu.gpmall.portal</groupId>
     <artifactId>gpmall-alibaba-portal</artifactId>
-    <version>0.0.7-SNAPSHOT</version>
+    <version>0.0.8-SNAPSHOT</version>
     <name>gpmall-alibaba-portal</name>
     <description>gpmall-alibaba-portal</description>
 

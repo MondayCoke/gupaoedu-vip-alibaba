@@ -8,12 +8,10 @@ import com.gupaoedu.gpmall.marking.dto.DrawResponse;
 import com.gupaoedu.gpmall.marking.dto.UserDrawChanceRequest;
 import com.gupaoedu.gpmall.marking.dto.UserDrawChanceResponse;
 import com.gupaoedu.gpmall.marking.enums.MmsResCodeEnum;
-import com.gupaoedu.gpmall.portal.gpmallalibabaportal.util.CusAccessObjectUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.springframework.web.bind.annotation.*;
 
-import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 /**

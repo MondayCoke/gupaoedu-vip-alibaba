@@ -5,14 +5,14 @@
     <parent>
         <groupId>com.gupaoedu.gpmall</groupId>
         <artifactId>storage-service</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.8-SNAPSHOT</version>
     </parent>
 
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.gupaoedu.gpmall.storage</groupId>
     <artifactId>storage-service-provider</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.8-SNAPSHOT</version>
     <name>storage-service-provider</name>
     <description>storage-service-provider</description>
 

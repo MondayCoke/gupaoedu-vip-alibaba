@@ -11,12 +11,12 @@
   <parent>
     <groupId>com.gupaoedu.gpmall</groupId>
     <artifactId>ms-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.8-SNAPSHOT</version>
   </parent>
 
   <groupId>com.gupaoedu.gpmall.user</groupId>
   <artifactId>user-service</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.8-SNAPSHOT</version>
 
   <name>user-service</name>
   <!-- FIXME change it to the project's website -->
