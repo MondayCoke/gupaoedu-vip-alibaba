@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd60cc04-9cd6-4a60-acc5-b6db80594d91" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/gpmall-portal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/gpmall-portal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/user-service/user-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/user-service/user-service-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/user-service/user-service-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/ms-service/user-service/user-service-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gpmall-pc-alibaba4/gpmall-pc-alibaba/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd60cc04-9cd6-4a60-acc5-b6db80594d91" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,7 +314,7 @@
       <workItem from="1642405554171" duration="2049000" />
       <workItem from="1642641763230" duration="1547000" />
       <workItem from="1642660821945" duration="1281000" />
-      <workItem from="1643179051970" duration="15410000" />
+      <workItem from="1643179051970" duration="16062000" />
     </task>
     <servers />
   </component>
