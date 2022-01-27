@@ -7,13 +7,13 @@
   <parent>
     <groupId>com.gupaedu.gpmall</groupId>
     <artifactId>ms-service</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.51-SNAPSHOT</version>
   </parent>
 
   <groupId>com.gupaedu.gpmall</groupId>
   <artifactId>user-service</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.51-SNAPSHOT</version>
     <modules>
         <module>user-service-api</module>
         <module>user-service-provider</module>

@@ -5,13 +5,13 @@
     <parent>
         <artifactId>user-service</artifactId>
         <groupId>com.gupaedu.gpmall</groupId>
-        <version>0.0.5-SNAPSHOT</version>
+        <version>0.0.51-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.gupaoedu.gpmall.user</groupId>
     <artifactId>user-service-provider</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.51-SNAPSHOT</version>
     <name>user-service-provider</name>
     <description>user-service-provider</description>
 
@@ -68,7 +68,7 @@
 
         <dependency>
             <artifactId>user-service-api</artifactId>
-            <version>0.0.5-SNAPSHOT</version>
+            <version>0.0.51-SNAPSHOT</version>
             <groupId>com.gupaedu.gpmall</groupId>
         </dependency>
     </dependencies>

@@ -4,13 +4,13 @@
     <parent>
         <groupId>com.gupaedu.gpmall</groupId>
         <artifactId>gpmall-pc-alibaba</artifactId>
-        <version>0.0.5-SNAPSHOT</version>
+        <version>0.0.51-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.gupaoedu.gpmall.portal</groupId>
     <artifactId>gpmall-portal</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.51-SNAPSHOT</version>
     <name>gpmall-portal</name>
     <description>gpmall-portal</description>
 
@@ -35,7 +35,7 @@
         </dependency>
         <dependency>
             <artifactId>user-service-api</artifactId>
-            <version>0.0.5-SNAPSHOT</version>
+            <version>0.0.51-SNAPSHOT</version>
             <groupId>com.gupaedu.gpmall</groupId>
         </dependency>
         <dependency>

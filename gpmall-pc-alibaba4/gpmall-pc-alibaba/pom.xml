@@ -5,7 +5,7 @@
     <groupId>com.gupaedu.gpmall</groupId>
     <artifactId>gpmall-pc-alibaba</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.51-SNAPSHOT</version>
     <modules>
         <module>ms-service</module>
         <module>gpmall-portal</module>
@@ -77,7 +77,7 @@
             <dependency>
                 <artifactId>user-service-api</artifactId>
                 <groupId>com.gupaedu.gpmall</groupId>
-                <version>0.0.5-SNAPSHOT</version>
+                <version>0.0.51-SNAPSHOT</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
