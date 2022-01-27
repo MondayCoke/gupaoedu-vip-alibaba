@@ -5,7 +5,7 @@
     <groupId>com.gupaoedu.gpmall</groupId>
     <artifactId>gpmall-pc-alibaba</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.7-SNAPSHOT</version>
     <modules>
         <module>ms-service</module>
         <module>gpmall-alibaba-portal</module>
@@ -68,7 +68,7 @@
             <dependency>
                 <groupId>com.gupaoedu.gpmall.user</groupId>
                 <artifactId>user-service-api</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.7-SNAPSHOT</version>
             </dependency>
 
             <dependency>
@@ -99,12 +99,12 @@
             <dependency>
                 <groupId>com.gupaoedu.gpmall</groupId>
                 <artifactId>common-core</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.7-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.gupaoedu.gpmall</groupId>
                 <artifactId>marking-service-api</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.7-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>joda-time</groupId>
@@ -129,12 +129,12 @@
             <dependency>
                 <groupId>com.gupaoedu.gpmall.storage</groupId>
                 <artifactId>storage-service-api</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.7-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.gupaoedu.gpmall.order</groupId>
                 <artifactId>order-service-api</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.7-SNAPSHOT</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
